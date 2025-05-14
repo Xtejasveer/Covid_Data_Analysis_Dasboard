@@ -1,3 +1,4 @@
+
 # COVID Data Analysis & Visualization
 
 This Python program analyzes COVID-19 data, providing insights on the number of deaths and recovered individuals globally. The program visualizes the spread of the disease through interactive charts and maps, hosted on a Streamlit dashboard.
@@ -32,3 +33,5 @@ Install the necessary packages using the command:
 
 ```bash
 pip install -r requirements.txt
+
+![image](https://github.com/user-attachments/assets/9ac0c817-48f3-42ec-88f6-01d0561b6486)
